@@ -1,0 +1,16 @@
+{
+  "moving_average": {
+    "window": 3
+  },
+  "butterworth": {
+    "cutoff_hz": 190.0,
+    "order": 6
+  },
+  "savgol": {
+    "window": 9,
+    "polyorder": 4
+  },
+  "wiener": {
+    "alpha": 1.0
+  }
+}
